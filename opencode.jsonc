@@ -1,0 +1,21 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "neon": {
+      "type": "remote",
+      "url": "https://mcp.neon.tech/mcp",
+      "enabled": true
+    },
+    "agentfactory-system-of-record": {
+      "type": "remote",
+      "url": "https://sor.panaversity.org/mcp",
+      "enabled": true,
+      "oauth": { "clientId": "zia-tutor-ai", "callbackPort": 3118 }
+    },
+    "handbook": {
+      "type": "remote",
+      "url": "http://127.0.0.1:8080/mcp",
+      "enabled": true
+    }
+  }
+}
