@@ -7,13 +7,11 @@ order: 1
 sources:
   - id: owner-instructions-2026-09-15
     title: Refund policy as stated by the owner
-    resource: "Stated by human:you, 2026-09-15, in the intake conversation for the refund policy"
+    resource: "Stated by farhansaeed, 2026-09-15, in the intake conversation for the refund policy"
 ksor:
-  owner: human:you
+  owner: human:farhansaeed
   audience: [public]
 ---
-
-hello world
 
 ## Refund timing
 

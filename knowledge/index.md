@@ -2,7 +2,7 @@
 okf_version: "0.2"
 ---
 
-# KSoR
+# Governor's Initiative Handbook
 
 * [Refund policy](refunds.md) - Customers may return an unused item within 30 days with a receipt; refunds land within 5 working days.
 * [What a Knowledge System of Record is](what-is-a-ksor.md) - The authoritative, governed knowledge layer humans, agents and software operate from.

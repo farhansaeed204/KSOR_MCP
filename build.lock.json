@@ -1,19 +1,19 @@
 {
   "format": 1,
-  "build_id": "sha256:596b6ebb85016fc0c00d665f14455a3b2757b3005149661b8cdfc8da87520183",
+  "build_id": "sha256:dda9dd2f98fff9a2996ec5c716b66c14cc50da58c9c96c6f9d2af7d774161789",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
     "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
-  "source_commit": null,
+  "source_commit": "748a0a3c623e6705f2610207ad55efb95e2d2762",
   "dirty": true,
-  "as_of": "2026-09-14T23:27:19.433Z",
+  "as_of": "2026-09-16T23:51:52.622Z",
   "drafts": "hidden",
-  "instance_sha256": "5f3419785e0bf40ef597f7177f490f4e04780bda9d80216ae85244e3d1897199",
-  "policy_sha256": "384f6c196502e5ac26ab53e88905b1da39e99c488ab32c8ebe9f05a532f06707",
-  "people_sha256": "01755a5e3cf0b00cd93a6844a765547fff8c5e22e378098193e13044a9bb4721",
+  "instance_sha256": "1b66656c5dd909a9cf06d8e69be303b282d0299185d45199431a30c5efa025b9",
+  "policy_sha256": "2bd9e2f95dcd0fc2295849b4908630d200debe2ab3acc4b25a22e16a8096f475",
+  "people_sha256": "c4070d446ac78aea012610fc6282a0437957f717d136ac273c365e5c87142470",
   "ledger_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "ledger_entries": [],
   "audiences": {
@@ -38,7 +38,7 @@
     },
     {
       "path": "refunds.md",
-      "sha256": "e6ccba8e78bec0acea8f5ec0816e06e501e13edd2020b91d5deeecfc68b0cea8",
+      "sha256": "45bfaef02d6d586f9cf400a26b8f442172283e23bd4e626855ba78b99a528f72",
       "status": "draft",
       "audience": [
         "public"
@@ -100,7 +100,7 @@
   "indexes": [
     {
       "path": "index.md",
-      "sha256": "af1e04fd26b696533553e476ee859fd15454d399b62324e7d64d32d6f3471c5a"
+      "sha256": "d2da07079ca40d882e498f332f6604cb81e0b9651263b16df498c84cdd5854e4"
     },
     {
       "path": "surfaces/index.md",
@@ -110,7 +110,7 @@
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "fb45dbe7e38f34b1791a68437a139ebf1c74119049335a8234132cac056a0d17",
+      "sha256": "8ae8474e9a0b53329b388489ad09882b382accc3bfe15d99496000a104c089f8",
       "files": 8
     }
   ]
