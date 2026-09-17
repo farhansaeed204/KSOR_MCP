@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "build_id": "sha256:08adc20c55807296be5dc3f17853890cd97be84376f20e168e7b932be0a8824f",
+  "build_id": "sha256:b0410a95adc4278d801c3f6f431142bd9523921ad760fe65b92ba298b1b31eb8",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
     "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
-  "source_commit": "a76115fede87b8de1c6579c5b536a2b2b0071009",
+  "source_commit": "9b5a6ea879c77102a04d603635d87c9333492c5a",
   "dirty": true,
-  "as_of": "2026-09-17T00:35:55.405Z",
+  "as_of": "2026-09-17T00:47:18.796Z",
   "drafts": "hidden",
   "instance_sha256": "1b66656c5dd909a9cf06d8e69be303b282d0299185d45199431a30c5efa025b9",
   "policy_sha256": "2bd9e2f95dcd0fc2295849b4908630d200debe2ab3acc4b25a22e16a8096f475",
@@ -38,12 +38,14 @@
     },
     {
       "path": "finance/late-expense-claims.md",
-      "sha256": "64c799dba409991e6cc27e66ae02f4d0bee9014b90ffddf315d45f1ecd1367b3",
-      "status": "draft",
+      "sha256": "57c767fefa5247dc1c6fd99afcee8be57018cab077e14ba5e7e72bc9e3cde80e",
+      "status": "stable",
       "audience": [
         "public"
       ],
-      "admitted": []
+      "admitted": [
+        "public"
+      ]
     },
     {
       "path": "governance-ladder.md",
@@ -136,8 +138,8 @@
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "61dc93f9b247ad3a552028e9ea6d474233f2fbbb79626c5396be780bbca43c07",
-      "files": 11
+      "sha256": "136b39babcbb12067d4c97dee564fefeb60093be3e476f2dfd2662026cd6dcef",
+      "files": 12
     }
   ]
 }

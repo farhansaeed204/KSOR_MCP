@@ -2,15 +2,21 @@
 type: Procedure
 title: Late expense claims
 description: How a claim submitted after the 30-day window is handled — the form rejects it, and the employee emails HR, who decides approve or reject.
-status: draft
+status: stable
 order: 2
 sources:
   - id: owner-interview-2026-09-17
     title: Interview with the owner on late expense claims
     resource: "Interview with human:farhansaeed, 2026-09-17T00:34:52Z, conducted by the record's coding agent"
+generated:
+  by: human:farhansaeed
+  at: 2026-09-17T00:45:40Z
 ksor:
   owner: human:farhansaeed
   audience: [public]
+  approval:
+    by: human:farhansaeed
+    at: 2026-09-17T00:45:40Z
 ---
 
 ## When a claim is late
