@@ -2,15 +2,21 @@
 type: Policy
 title: Expense policy
 description: How employees and contractors incur, submit and are reimbursed for business expenses — travel, meals, accommodation, client entertainment and small office purchases. Version 1.0, effective 1 September 2026.
-status: draft
+status: stable
 order: 1
 sources:
   - id: expense-policy-2026-09-01
     title: Governor's Initiative Expense Policy
     resource: "Governor's Initiative Expense Policy, version 1.0, effective 2026-09-01, owner: Finance Department"
+generated:
+  by: human:farhansaeed
+  at: 2026-09-17T00:22:38Z
 ksor:
   owner: team:finance
   audience: [public]
+  approval:
+    by: human:farhansaeed
+    at: 2026-09-17T00:22:38Z
 ---
 
 ## Purpose

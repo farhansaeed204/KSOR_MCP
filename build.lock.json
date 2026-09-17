@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "build_id": "sha256:f2637e749828c6807a1952b78cc5786d01e3054533346517615d28c1b8b98550",
+  "build_id": "sha256:b62db5646c41587d375b3843626f851b306103d8250b99b72230ae08d5741988",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
     "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
-  "source_commit": "00c8d1e9342cbc12041839f42397ea0f626aedc0",
+  "source_commit": "cb0ed1e8957dfd4d59b4668ce9105131c464e9b0",
   "dirty": true,
-  "as_of": "2026-09-17T00:14:22.135Z",
+  "as_of": "2026-09-17T00:24:02.312Z",
   "drafts": "hidden",
   "instance_sha256": "1b66656c5dd909a9cf06d8e69be303b282d0299185d45199431a30c5efa025b9",
   "policy_sha256": "2bd9e2f95dcd0fc2295849b4908630d200debe2ab3acc4b25a22e16a8096f475",
@@ -27,12 +27,14 @@
   "documents": [
     {
       "path": "finance/expense-policy.md",
-      "sha256": "37ae7f7bc2d83ffa3fb8727a06c6b40212cb06dcaf6ba891413be2026efe4195",
-      "status": "draft",
+      "sha256": "800965ba0d0524a169bc035ac6e44570bc23c93714cb11bf0eaca65ad7086f7c",
+      "status": "stable",
       "audience": [
         "public"
       ],
-      "admitted": []
+      "admitted": [
+        "public"
+      ]
     },
     {
       "path": "governance-ladder.md",
@@ -47,12 +49,14 @@
     },
     {
       "path": "refunds.md",
-      "sha256": "45bfaef02d6d586f9cf400a26b8f442172283e23bd4e626855ba78b99a528f72",
-      "status": "draft",
+      "sha256": "ae88bdd0b1d5cad4b70c72cb64b7040aa614616fa07acccde69458de4c590aef",
+      "status": "stable",
       "audience": [
         "public"
       ],
-      "admitted": []
+      "admitted": [
+        "public"
+      ]
     },
     {
       "path": "surfaces/for-agents.md",
@@ -123,8 +127,8 @@
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "8ae8474e9a0b53329b388489ad09882b382accc3bfe15d99496000a104c089f8",
-      "files": 8
+      "sha256": "61dc93f9b247ad3a552028e9ea6d474233f2fbbb79626c5396be780bbca43c07",
+      "files": 11
     }
   ]
 }
