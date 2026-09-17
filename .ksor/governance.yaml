@@ -1,13 +1,6 @@
 # The Governance Policy: who has authority over this record.
-#
-# `ksor-starter/...` approved the five sample documents it shipped, so a fresh
-# record PUBLISHES on the first build instead of admitting nothing. It is a
-# producer, not a person: it cannot be mistaken for a human who reviewed
-# anything, and the trust tier stays `unverified`, which is the honest word
-# for "nobody has checked this". Delete this actor once the samples are gone
-# — nothing of yours should ever be approved by a tool.
 version: "0.1"
 approval_authorities:
-  - actors: [human:farhansaeed, ksor-starter/0.0.60]
+  - actors: [human:farhansaeed]
 takedown_authorities:
   actors: [human:farhansaeed]
