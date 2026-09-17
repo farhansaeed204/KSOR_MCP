@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "build_id": "sha256:dda9dd2f98fff9a2996ec5c716b66c14cc50da58c9c96c6f9d2af7d774161789",
+  "build_id": "sha256:f2637e749828c6807a1952b78cc5786d01e3054533346517615d28c1b8b98550",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
     "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
-  "source_commit": "748a0a3c623e6705f2610207ad55efb95e2d2762",
+  "source_commit": "00c8d1e9342cbc12041839f42397ea0f626aedc0",
   "dirty": true,
-  "as_of": "2026-09-16T23:51:52.622Z",
+  "as_of": "2026-09-17T00:14:22.135Z",
   "drafts": "hidden",
   "instance_sha256": "1b66656c5dd909a9cf06d8e69be303b282d0299185d45199431a30c5efa025b9",
   "policy_sha256": "2bd9e2f95dcd0fc2295849b4908630d200debe2ab3acc4b25a22e16a8096f475",
@@ -25,6 +25,15 @@
     }
   },
   "documents": [
+    {
+      "path": "finance/expense-policy.md",
+      "sha256": "37ae7f7bc2d83ffa3fb8727a06c6b40212cb06dcaf6ba891413be2026efe4195",
+      "status": "draft",
+      "audience": [
+        "public"
+      ],
+      "admitted": []
+    },
     {
       "path": "governance-ladder.md",
       "sha256": "c0dc26f31fcbb19128db8bd3e8aca068439814a784e889bf5c35827fc43479a0",
@@ -99,8 +108,12 @@
   "assets": [],
   "indexes": [
     {
+      "path": "finance/index.md",
+      "sha256": "e427dfae53b9a971c5c3a34c6aad60e0e59c704270959daae5bdcc6d88d96847"
+    },
+    {
       "path": "index.md",
-      "sha256": "d2da07079ca40d882e498f332f6604cb81e0b9651263b16df498c84cdd5854e4"
+      "sha256": "568bfe9efa6ba7f651dc4a169a596792b771957a81d2c42d6c8ad0f4700c3476"
     },
     {
       "path": "surfaces/index.md",
